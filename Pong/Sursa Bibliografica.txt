@@ -1,0 +1,2 @@
+[1]: Cursul teoretic: https://www.udemy.com/course/deep-q-learning-from-paper-to-code/?referralCode=CBA45A3B737237E7BFD2
+[2]: Codul sursă folosit pentru cursul [1]: https://github.com/philtabor/Deep-Q-Learning-Paper-To-Code
