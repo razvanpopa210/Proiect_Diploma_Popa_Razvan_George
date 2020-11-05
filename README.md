@@ -1,4 +1,4 @@
-# Proiect_Diploma_Popa_Razvan_George
+# Diploma Project.
 Algoritmi de inteligență artificială aplicați în jocuri cu unul sau mai mulți participanți.
 Artificial intelligence algorithms applied in games with one or more participants.
 "Piatra, Hartie, Foarfece" stands for "Rock, Paper, Scissors".
